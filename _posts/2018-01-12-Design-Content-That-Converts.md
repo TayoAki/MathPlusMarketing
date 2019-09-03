@@ -1,7 +1,6 @@
 ---
 layout: post-right-sidebar
 title:  "Design Content That Converts"
-author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/Design Content That.png
 ---
