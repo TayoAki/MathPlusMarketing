@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Digital Marketing Checklist"
-author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/Checklist.png
 ---
