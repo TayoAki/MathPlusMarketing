@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Is Your Copywriter Up to Par?"
-author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/Copywrong.png
 ---
