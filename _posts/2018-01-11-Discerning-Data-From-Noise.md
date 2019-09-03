@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Discerning Data From Noise"
-author: john
+author: Tayo
 categories: [ Jekyll, tutorial ]
 image: assets/images/Discerning Data From Noise.png
 ---
