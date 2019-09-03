@@ -3,7 +3,6 @@ layout: post
 title:  "Dont Be Left Stranded By a Bad Social Media Marketing Agency"
 categories: [ Jekyll, tutorial ]
 image: assets/images/SMMA.png
-featured: true
 ---
 
 
