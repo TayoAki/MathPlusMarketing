@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
+title:  "Is Your Copywriter Up to Par?"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/Copywrong.png
 ---
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 
 
