@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Dont Be Left Stranded By a Bad Social Media Marketing Agency"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/SMMA.png
